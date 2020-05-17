@@ -1,8 +1,6 @@
 package selenium;
 import org.openqa.selenium.By;  
-import org.openqa.selenium.JavascriptExecutor;  
 import org.openqa.selenium.WebDriver;
-import org.openqa.selenium.WebElement;
 import org.openqa.selenium.chrome.ChromeDriver;  
 public class selenium1 {
 
@@ -36,6 +34,7 @@ public class selenium1 {
 	   System.out.println("Test failed");
    }
   System.out.println("Test for github");
+  System.out.println("Checking changes in purchase branch");
 	}
 }
 
