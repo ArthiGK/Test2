@@ -36,6 +36,7 @@ public class selenium1 {
 	   System.out.println("Test failed");
    }
   System.out.println("Test for github");
+  System.out.println("Test for purchase branch");
 	}
 }
 
